@@ -1,0 +1,10 @@
+{
+  "name": "Water Refilling Station Audit Manager",
+  "description": "Financial audit dashboard for water refilling stations in the Philippines. Parses daily handwritten logs and raw text using Gemini, validates water meter metrics, reconciles pricing, and highlights cash discrepancies.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
